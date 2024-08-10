@@ -12,12 +12,9 @@
 <br>
 
 
-- 🔭 I’m currently working on Spring Boot, Bots, Camunda Connectors
+- 🔭 I’m currently working on Spring Boot, Camunda Connectors
 - 🦄 I’m currently hustling on LeetCode
-- 🌱 I’m currently learning Data Science ( at Machine Learning )
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Full Stack Development ( SpringBoot, Angular/React )
-- 🤔 I’m looking for help with Microservices
-- 💬 Ask me about Java, Spring Boot, Angular, Java, Python, Bots ( Java, Python, PowerShell, BluePrism (RPA) )
+- 💬 Ask me about Java, Spring Boot, Angular, Java, Python
 - 📫 How to reach me: [Email](mailto:tripathi0954@gmail.com)
-- 😎 Also known as: Umang
-- 😄 Pronouns: He/Him/Vaibhav
