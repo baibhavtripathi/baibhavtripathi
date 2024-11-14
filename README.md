@@ -13,8 +13,8 @@
 
 
 - 🔭 I’m currently working on Spring Boot, Camunda Connectors
-- 🦄 I’m currently hustling on LeetCode
+<!-- - 🦄 I’m currently hustling on LeetCode -->
 - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on Full Stack Development ( SpringBoot, Angular/React )
-- 💬 Ask me about Java, Spring Boot, Angular, Java, Python
+- 👯 I’m looking to collaborate on Web App Development ( SpringBoot, Angular/React )
+- 💬 Ask me about Java, Spring Boot, Angular, Python
 - 📫 How to reach me: [Email](mailto:tripathi0954@gmail.com)
