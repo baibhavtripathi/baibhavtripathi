@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Baibhav%20Tripathi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Agentic%20Systems%20Engineer&descSize=20&descAlignY=52" width="100%"/>
 
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:1B2A4A,100:4A0E2A&height=200&section=header&text=Baibhav%20Tripathi&fontSize=46&fontColor=7EB8F7&animation=twinkling&fontAlignY=38&desc=Agentic%20Systems%20Engineer&descSize=18&descAlignY=58&descColor=E884A8" width="100%"/> -->
+
 <p align="center">
   <i>Bridging enterprise automation and modern AI — from BPMN flows to agent tool calling</i>
 </p>
